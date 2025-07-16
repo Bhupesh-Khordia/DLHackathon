@@ -13,8 +13,6 @@ This project aims to build a chatbot that helps users troubleshoot MATLAB-relate
 - **LLMs**: Hugging Face Transformers, Gemini
 - **Vector Store**: FAISS
 - **Database**: MongoDB
-- **Other Tools**: Sentence Transformers
-
 ---
 
 ## 🚀 Features
