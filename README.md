@@ -92,7 +92,7 @@ HUGGINGFACEHUB_API_TOKEN="your_huggingface_api_token"
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/matlab-chatbot.git
+git clone https://github.com/Bhupesh-Khordia/DLHackathon
 cd matlab-chatbot
 ```
 2. Install dependencies:
